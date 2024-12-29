@@ -1,13 +1,11 @@
-PAGE_TITLE = "Web-based CV"
-
 # --- Basics ---
 WORK_NAME = "Lean Lin"
 TC_NAME = "Ming Yan, Lin"
 DESCRIPTION_a = """
-Senior Data Analyst with 5+ years experience
+_Senior Data Analyst with 5+ years experience_**
 """
 DESCRIPTION_b = """
-Skilled in leveraging ML models, EDA, creating impactful visualizations to uncover actionable trends, extracting insights into strategic business decisions.
+Skilled in leveraging **ML models**, **EDA**, **creating impactful visualizations** to uncover actionable trends, extracting insights into strategic business decisions.
 """
 
 # --- Contacts ---
@@ -23,12 +21,12 @@ EDU = {
     'school': 'National Taipei University',
     'period': '2017 Sep ~ 2021 Jan',
     'info':'''
-        ###### Thesis
+        ##### _Thesis_**
         - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
         - Thesis URL : 🔗 [Link](https://hdl.handle.net/11296/834k8b)
-        ###### Grade
-        - GPA : **3.8**   /   *4.0*
-        ###### Honor
+        ##### _Grade_**
+        - GPA : _3.8_**  |  *4.0*
+        ##### _Honor_**
         - *Phi Tau Phi Honorary Membership*
         - *The C. C. Chang Scholarship of Administrative Science*
         - *The Rotary Foundation Scholarship*
@@ -51,10 +49,9 @@ CAREER = {
         'corp_name': '*Taiwan AiLabs*',
         'period': '2023 Feb ~ 2023 Dec',
         'info': '''
-            - Lead 3 Data Analysts and distribute the workload, organizing the needs from clients & senior management, and meeting the overall goals of the business unit's expectations.
-            - Having the ability to practice EDA on large volume of data, constructing data processing pipelines as well.
-            - Utilizing community detection algorithms to group atypical accounts, also detecting atypical behavior patterns on social media based on feature engineering & other ML methods. (2+ models for YouTube & TikTok)
-            - Experienced in data visualization, demonstrating evidence of coordinated inauthentic behaviors, and concluding with insights about how collaborative groups manipulated specific information. (40+ reports)
+            - _Lead 3 Data Analysts_** and distribute the workload, organizing the needs from clients & senior management, and meeting the overall goals of the business unit's expectations.
+            - _Utilizing community detection algorithms_** to group atypical accounts, also _detecting atypical behavior patterns_** on social media based on feature engineering & other ML methods. (2+ models for YouTube & TikTok)
+            - Experienced in data visualization, _demonstrating evidence of coordinated inauthentic behaviors_**, and _concluding with insights about how collaborative groups manipulated_** specific information. (40+ reports)
         '''
     },
     'eland':{
@@ -62,10 +59,10 @@ CAREER = {
         'corp_name': '*eLand Information*',
         'period': '2019 Mar ~ 2023 Feb',
         'info': '''
-            - Providing conclusions and insights among various realms based on data-driven evidence. (realms including politics & policies, public relations, business analytics and marketing campaign)
-            - Involved in data-related tasks such as Data Cleaning, Data Integration, Data Transformation & Data Visualization, routinely delivering analytic reports. (100+ reports)
-            - Offering assistance and advice to clients to help deal with system-operating or data-processing issues. (clients including business group, ad agency and public sector) 
-            - Occasionally serve as a lecturer sharing thoughts or insights about Social Big Data and various quantitative methods. (25+ lectures or workshops)
+            - _Providing conclusions and insights among various realms_** based on data-driven evidence. (realms including politics & policies, public relations, business analytics and marketing campaign)
+            - Involved in data-related tasks such as _Data Cleaning, Data Integration, Data Transformation & Data Visualization_**, routinely delivering analytic reports. (100+ reports)
+            - _Offering assistance and advice to clients_** to help deal with system-operating or data-processing issues. (clients including business group, ad agency and public sector) 
+            - _Occasionally serve as a lecturer_** sharing thoughts or insights about Social Big Data and various quantitative methods. (25+ lectures or workshops)
         '''
     }
 }
@@ -73,30 +70,30 @@ CAREER = {
 # --- Information of Skills ---
 SKILLS = {
     'soft':'''
-        ###### Communication and Collaboration 🤝
+        ##### _Communication and Collaboration_** 🤝
         - *Clear Data Storytelling*
         - *Cross-Functional Collaboration*
-        ###### Critical Thinking and Problem-Solving 🧠
+        ##### _Critical Thinking and Problem-Solving_* 🧠
         - *Problem Decomposition*
         - *Logical Reasoning*
         - *Data-Driven Decision-Making*
-        ###### Adaptability and Growth Mindset 🌵
+        ##### _Adaptability and Growth Mindset_* 🌵
         - *Learning New Tools and Techniques*
         - *Adapting to Change*
     ''',
     'hard':'''
-        ###### Code & Data Tool 🐍
+        ###### _Code & Data Tool_* 🐍
         - `Python`, `SQL`, `Streamlit`
         - `Looker Studio`, `Tableau`, `Power BI`
         - `Excel`, `Power Query`, `Power Pivot`
-        ###### Analytic Skills 🤖
-        - `EDA & Data Mining`
+        ###### _Analytic Skills_* 🤖
+        - `EDA` & `Data Mining`
         - `Data Visualization`
         - `Data Modeling`
         - `Machine Learning`
         - `Feature Engineering`
-        - `ETL & Data Management`
-        ###### Certificate 🪪
+        - `ETL` & `Data Management`
+        ###### _Certificate_** 🪪
         - *Google Business Intelligence Specialization*
     '''
 }
@@ -106,7 +103,7 @@ PROJECTS = {
     'side':{
         'app':{
             'name':'''
-                #### *EDA Toolkit (Web app) - a Data Tool without any Coding*
+                ##### *EDA Toolkit (Web app) - a Data Tool without any Coding*
             ''',
             'info':'''
                 - The EDA Toolkit is a user-friendly web application built with Streamlit that assists data analysts and data scientists in `performing quick, interactive, and comprehensive EDA`.
@@ -119,7 +116,7 @@ PROJECTS = {
         },
         'wal':{
             'name':'''
-                #### *Business Case Study - Walmart Sales Factors Analysis & Forcasting*
+                ##### *Business Case Study - Walmart Sales Factors Analysis & Forcasting*
             ''',
             'info':'''
                 - This case study aimed to realize `how factors affect 'Weekly_Sales' of Walmart` and `what's the intersection effect between factors` by Using `K-means Clustering`, `RandomForrestRegressor` and `Partial Dependence Plot`.
@@ -134,7 +131,7 @@ PROJECTS = {
     'work':{
         'ls':{
             'name':'''
-                #### *Guidelines for Early-Life Live Stream Sellers*
+                ##### *Guidelines for Early-Life Live Stream Sellers*
             ''',
             'info':'''
                 - Using `Random Forest Regressor` & `EDA` to assess the most influential key factors that drive live stream success.
@@ -143,7 +140,7 @@ PROJECTS = {
         },
         'dws':{
             'name':'''
-                #### *Build a Local Data Warehouse of an Integrated Consumer Segmentation for Taiwan Business*
+                ##### *Build a Local Data Warehouse of an Integrated Consumer Segmentation for Taiwan Business*
             ''',
             'info':'''
                 - `Standardize consumer segmentation` by aligning different departments' goals and integrating them with existing academic frameworks. 
@@ -153,7 +150,7 @@ PROJECTS = {
         },
         'rfm':{
             'name':'''
-                #### *RFM Clustering for CLV Prediction* ***(on-going)***
+                ##### *RFM Clustering for CLV Prediction* ***(on-going)***
             ''',
             'info':'''
                 - Using RFM Features to `Classified Consumer into Meaningful Groups` to help seek high CLV Users to:
