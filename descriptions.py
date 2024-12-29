@@ -77,18 +77,21 @@ CAREER = {
 
 SKILLS = {
     'soft':'''
-        - Project Management
+        - Communication and Collaboration : 
+            - ==Clear Data Storytelling==
         - Cross-team Collaboration
     ''',
     'hard':'''
-        - Tool : 
+        - Code & Data Tool : 
             - `Python`, `SQL`, `Streamlit`
             - `Looker Studio`, `Tableau`, `Power BI`
             - `Excel`, `Power Query`, `Power Pivot`
-        - Skills :
-            - `Data Mining`
+        - Analytic Skills :
+            - `EDA & Data Mining`
             - `Data Visualization`
+            - `Data Modeling`
             - `Machine Learning`
+            - `Feature Engineering`
             - `ETL & Data Management`
         - Certificate :
             - *Google Business Intelligence Specialization*
