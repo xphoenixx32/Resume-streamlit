@@ -21,12 +21,12 @@ EDU = {
     'school': 'National Taipei University',
     'period': '2017 Sep ~ 2021 Jan',
     'info':'''
-        ##### **_Thesis_
+        ###### Thesis
         - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
         - Thesis URL 🔗 : [Link](https://hdl.handle.net/11296/834k8b)
-        ##### **_Grade_**
-        - GPA : **_3.8_**  |  *4.0*
-        ##### **_Honor_**
+        ###### Grade
+        - GPA : **3.8**  |  *4.0*
+        ##### Honor
         - *Phi Tau Phi Honorary Membership*
         - *The C. C. Chang Scholarship of Administrative Science*
         - *The Rotary Foundation Scholarship*
