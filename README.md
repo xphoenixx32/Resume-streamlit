@@ -1,5 +1,4 @@
-
-# Streamlit Resume Application
+# Web-based Resume (Streamlit App)
 
 A **web-based resume** built with [Streamlit](https://streamlit.io), showcasing professional experiences, skills, projects, and contact details in an interactive and visually appealing format.
 
@@ -36,34 +35,13 @@ A **web-based resume** built with [Streamlit](https://streamlit.io), showcasing 
 
 ---
 
-## Installation and Usage
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   ```
-2. **Install Dependencies**:
-   Navigate to the project directory and install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the App**:
-   Launch the Streamlit app with:
-   ```bash
-   streamlit run app.py
-   ```
-4. **Access the Application**:
-   Open the app in your browser at `http://localhost:8501`.
-
----
-
 ## Directory Structure
 
 ```plaintext
 .
-├── app.py               # Main Streamlit app script
 ├── assets/              # Assets directory (e.g., CV PDF)
 ├── descriptions.py      # Text data for the app (e.g., titles, descriptions)
+├── main.py              # Main Streamlit app script
 ├── print_txt.py         # Custom function for formatted text output
 └── requirements.txt     # Python dependencies
 ```
@@ -83,14 +61,6 @@ pip install -r requirements.txt
 
 ---
 
-## Demo
-
-Check out the live demo of the app (if hosted) or a screenshot below:
-
-![App Screenshot](assets/demo_screenshot.png)
-
----
-
 ## Future Enhancements
 
 - **Responsive Design**: Improve layout for better mobile compatibility.
@@ -103,9 +73,9 @@ Check out the live demo of the app (if hosted) or a screenshot below:
 
 If you have any questions or suggestions, feel free to reach out via:
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
+- **Email**: [Email Address](xphoenixx32@mgmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/leanlin/)
+- **GitHub**: [GitHub Profile](https://github.com/xphoenixx32/)
 
 ---
 
