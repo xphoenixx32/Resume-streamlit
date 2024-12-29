@@ -1,6 +1,6 @@
 # Web-based Resume (Streamlit App)
 
-A **web-based resume** built with [Streamlit](https://streamlit.io), showcasing professional experiences, skills, projects, and contact details in an interactive and visually appealing format.
+A [**web-based resume**](https://resume-leanlinmy.streamlit.app/) built with [Streamlit](https://streamlit.io), showcasing professional experiences, skills, projects, and contact details in an interactive and visually appealing format.
 
 ---
 
