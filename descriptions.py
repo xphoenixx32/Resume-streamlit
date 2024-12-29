@@ -17,11 +17,11 @@ SOCIAL_MEDIA = {
 
 # --- Information of About ---
 EDU = {
-    'degree': '**Master Degree**, *Public Administration & Policy*',
+    'degree': '##### **Master Degree**, *Public Administration & Policy*',
     'school': 'National Taipei University',
     'period': '2017 Sep ~ 2021 Jan',
     'info':'''
-        ##### **_Thesis_**
+        ##### **_Thesis_
         - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
         - Thesis URL 🔗 : [Link](https://hdl.handle.net/11296/834k8b)
         ##### **_Grade_**
