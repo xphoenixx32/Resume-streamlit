@@ -17,7 +17,7 @@ st.set_page_config(layout = "centered")
 st.title(WORK_NAME)
 st.caption(TC_NAME)    
 st.warning(DESCRIPTION_a, icon = "⚡")
-st.info(DESCRIPTION_b, icon = "✅")
+st.info(DESCRIPTION_b, icon = "💡")
 st.download_button(
     label = "⬇️ Download Resume",
     data = PDFbyte,
