@@ -32,7 +32,7 @@ with st.container():
         menu_title = None,
         options = ['About', 'Skills', 'Projects', 'Contact'],
         icons = ['person-fill', 'wrench', 'table', 'telephone-plus-fill'],
-        orientation = 'horizontal'
+        # orientation = 'horizontal'
     )
 
 if selected == 'About':
