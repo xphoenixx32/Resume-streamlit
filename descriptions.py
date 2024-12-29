@@ -26,10 +26,8 @@ EDU = {
         - Thesis
             - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
             - Thesis URL : 🔗 [Link](https://hdl.handle.net/11296/834k8b)
-            - 
         - Grade
             - GPA : **3.8**   /   *4.0*
-            - 
         - Honor
             - *Phi Tau Phi Honorary Membership*
             - *The C. C. Chang Scholarship of Administrative Science*
@@ -75,34 +73,30 @@ CAREER = {
 # --- Information of Skills ---
 SKILLS = {
     'soft':'''
-        - 🤝 Communication and Collaboration : 
+        - 🤝 #### Communication and Collaboration : 
             - *Clear Data Storytelling*
             - *Cross-Functional Collaboration*
-            
-        - 🧠 Critical Thinking and Problem-Solving : 
+        - 🧠 #### Critical Thinking and Problem-Solving : 
             - *Problem Decomposition*
             - *Logical Reasoning*
             - *Data-Driven Decision-Making*
-            
-        - 🌵 Adaptability and Growth Mindset :
+        - 🌵 #### Adaptability and Growth Mindset :
             - *Learning New Tools and Techniques*
             - *Adapting to Change*
     ''',
     'hard':'''
-        - 🐍 Code & Data Tool : 
+        - 🐍 #### Code & Data Tool : 
             - `Python`, `SQL`, `Streamlit`
             - `Looker Studio`, `Tableau`, `Power BI`
             - `Excel`, `Power Query`, `Power Pivot`
-            
-        - 🤖 Analytic Skills :
+        - 🤖 #### Analytic Skills :
             - `EDA & Data Mining`
             - `Data Visualization`
             - `Data Modeling`
             - `Machine Learning`
             - `Feature Engineering`
             - `ETL & Data Management`
-            
-        - 🪪 Certificate :
+        - 🪪 #### Certificate :
             - *Google Business Intelligence Specialization*
     '''
 }
