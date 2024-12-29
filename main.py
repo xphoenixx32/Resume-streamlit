@@ -13,8 +13,6 @@ resume_file = current_dir / "assets" / "CV.pdf"
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
-profile_pic = Image.open(profile_pic)
-
 # --- Top Header ---
 st.set_page_config(layout = "centered")
 
