@@ -25,7 +25,7 @@ EDU = {
         - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
         - Thesis URL 🔗 : [Link](https://hdl.handle.net/11296/834k8b)
         ###### Grade
-        - GPA : **3.8**   |   *4.0*
+        - GPA : **3.8**  |  *4.0*
         ##### Honor
         - *Phi Tau Phi Honorary Membership*
         - *The C. C. Chang Scholarship of Administrative Science*
@@ -103,7 +103,7 @@ PROJECTS = {
     'side':{
         'app':{
             'name':'''
-                ##### *EDA Toolkit (Web app) - a Data Tool without any Coding*
+                #### *EDA Toolkit (Web app) - a Data Tool without any Coding*
             ''',
             'info':'''
                 - The EDA Toolkit is a user-friendly web application built with Streamlit that assists data analysts and data scientists in `performing quick, interactive, and comprehensive EDA`.
@@ -116,7 +116,7 @@ PROJECTS = {
         },
         'wal':{
             'name':'''
-                ##### *Business Case Study - Walmart Sales Factors Analysis & Forcasting*
+                #### *Business Case Study - Walmart Sales Factors Analysis & Forcasting*
             ''',
             'info':'''
                 - This case study aimed to realize `how factors affect 'Weekly_Sales' of Walmart` and `what's the intersection effect between factors` by Using `K-means Clustering`, `Random Forest Regressor` and `Partial Dependence Plot`.
@@ -131,7 +131,7 @@ PROJECTS = {
     'work':{
         'ls':{
             'name':'''
-                ##### *Guidelines for Early-Life Live Stream Sellers*
+                #### *Guidelines for Early-Life Live Stream Sellers*
             ''',
             'info':'''
                 - Using `Random Forest Regressor` & `EDA` to assess the most influential key factors that drive live stream success.
@@ -140,7 +140,7 @@ PROJECTS = {
         },
         'dws':{
             'name':'''
-                ##### *Build a Local Data Warehouse of an Integrated Consumer Segmentation for Taiwan Business*
+                #### *Build a Local Data Warehouse of an Integrated Consumer Segmentation for Taiwan Business*
             ''',
             'info':'''
                 - `Standardize consumer segmentation` by aligning different departments' goals and integrating them with existing academic frameworks. 
@@ -150,7 +150,7 @@ PROJECTS = {
         },
         'rfm':{
             'name':'''
-                ##### *RFM Clustering for CLV Prediction* ***(on-going)***
+                #### *RFM Clustering for CLV Prediction* ***(on-going)***
             ''',
             'info':'''
                 - Using RFM Features to `Classified Consumer into Meaningful Groups` to help seek high CLV Users to:
