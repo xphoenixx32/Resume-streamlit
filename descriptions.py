@@ -26,7 +26,7 @@ EDU = {
         - Thesis
             - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
             - Thesis URL : 🔗 [Link](https://hdl.handle.net/11296/834k8b)
-        ======
+            =============================================================
         - Grade
             - GPA : **3.8** / *4.0*
         ======
