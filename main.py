@@ -30,12 +30,12 @@ with st.container():
         st.subheader(TC_NAME)
     
     with col_03:
-        st.image(profile_pic, width = 200)
+        st.image(profile_pic, width = 150)
 
-st.warning(DESCRIPTION_a)
-st.info(DESCRIPTION_b)
+st.warning(DESCRIPTION_a, icon = "⚡")
+st.info(DESCRIPTION_b, icon = "✅")
 st.download_button(
-    label = " ⬇︎ Download Resume",
+    label = "⬇️ Download Resume",
     data = PDFbyte,
     file_name = resume_file.name,
     mime = "application/octet-stream",
