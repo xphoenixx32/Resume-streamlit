@@ -9,7 +9,7 @@ Senior Data Analyst with 5+ years experience
 """
 
 DESCRIPTION_b = """
-Skilled in leveraging ML models, EDA, creating impactful visualizations to uncover actionable trends, and feature engineering to extract insights and drive strategic business decisions.
+Skilled in leveraging ML models, EDA, creating impactful visualizations to uncover actionable trends, extracting insights into strategic business decisions.
 """
 
 # --- Contacts ---
@@ -28,7 +28,8 @@ EDU = {
     'period': '2017 Sep ~ 2021 Jan',
     'info':'''
         - Thesis
-            - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 🔗 [Link](https://hdl.handle.net/11296/834k8b)
+            - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
+                🔗 [Link](https://hdl.handle.net/11296/834k8b)
         - Grade
             - GPA : **3.8** / *4.0*
         - Honor
