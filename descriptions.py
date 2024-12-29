@@ -23,12 +23,12 @@ EDU = {
     'school': 'National Taipei University',
     'period': '2017 Sep ~ 2021 Jan',
     'info':'''
-        #### Thesis
+        ###### Thesis
         - **The Research on the Influence of Influencers’ Political Endorsement and Policy Marketing Effect:** *Using Internet Public Opinion Big Data to Analyze its Impact on Social Media* 
         - Thesis URL : 🔗 [Link](https://hdl.handle.net/11296/834k8b)
-        #### Grade
+        ###### Grade
         - GPA : **3.8**   /   *4.0*
-        #### Honor
+        ###### Honor
         - *Phi Tau Phi Honorary Membership*
         - *The C. C. Chang Scholarship of Administrative Science*
         - *The Rotary Foundation Scholarship*
@@ -37,7 +37,7 @@ EDU = {
 
 CAREER = {
     'shopee':{
-        'title': '**Data Analyst, Business Intelligence**',
+        'title': '##### **Data Analyst, Business Intelligence**',
         'corp_name': '*Shopee*',
         'period': '2024 Jan ~ Present',
         'info': '''
@@ -47,7 +47,7 @@ CAREER = {
         '''
     },
     'ailabs':{
-        'title': '**Lead Data Analyst**',
+        'title': '##### **Lead Data Analyst**',
         'corp_name': '*Taiwan AiLabs*',
         'period': '2023 Feb ~ 2023 Dec',
         'info': '''
@@ -58,7 +58,7 @@ CAREER = {
         '''
     },
     'eland':{
-        'title': '**Sr. Business Analyst**',
+        'title': '##### **Sr. Business Analyst**',
         'corp_name': '*eLand Information*',
         'period': '2019 Mar ~ 2023 Feb',
         'info': '''
@@ -73,31 +73,31 @@ CAREER = {
 # --- Information of Skills ---
 SKILLS = {
     'soft':'''
-        - 🤝 #### Communication and Collaboration : 
-            - *Clear Data Storytelling*
-            - *Cross-Functional Collaboration*
-        - 🧠 #### Critical Thinking and Problem-Solving : 
-            - *Problem Decomposition*
-            - *Logical Reasoning*
-            - *Data-Driven Decision-Making*
-        - 🌵 #### Adaptability and Growth Mindset :
-            - *Learning New Tools and Techniques*
-            - *Adapting to Change*
+        ###### Communication and Collaboration 🤝
+        - *Clear Data Storytelling*
+        - *Cross-Functional Collaboration*
+        ###### Critical Thinking and Problem-Solving 🧠
+        - *Problem Decomposition*
+        - *Logical Reasoning*
+        - *Data-Driven Decision-Making*
+        ###### Adaptability and Growth Mindset 🌵
+        - *Learning New Tools and Techniques*
+        - *Adapting to Change*
     ''',
     'hard':'''
-        - 🐍 #### Code & Data Tool : 
-            - `Python`, `SQL`, `Streamlit`
-            - `Looker Studio`, `Tableau`, `Power BI`
-            - `Excel`, `Power Query`, `Power Pivot`
-        - 🤖 #### Analytic Skills :
-            - `EDA & Data Mining`
-            - `Data Visualization`
-            - `Data Modeling`
-            - `Machine Learning`
-            - `Feature Engineering`
-            - `ETL & Data Management`
-        - 🪪 #### Certificate :
-            - *Google Business Intelligence Specialization*
+        ###### Code & Data Tool 🐍
+        - `Python`, `SQL`, `Streamlit`
+        - `Looker Studio`, `Tableau`, `Power BI`
+        - `Excel`, `Power Query`, `Power Pivot`
+        ###### Analytic Skills 🤖
+        - `EDA & Data Mining`
+        - `Data Visualization`
+        - `Data Modeling`
+        - `Machine Learning`
+        - `Feature Engineering`
+        - `ETL & Data Management`
+        ###### Certificate 🪪
+        - *Google Business Intelligence Specialization*
     '''
 }
 
