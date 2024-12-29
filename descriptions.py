@@ -82,18 +82,18 @@ SKILLS = {
         - *Adapting to Change*
     ''',
     'hard':'''
-        ##### Code & Data Tool 🐍
+        #### Code & Data Tool 🐍
         - `Python`, `SQL`, `Streamlit`
         - `Looker Studio`, `Tableau`, `Power BI`
         - `Excel`, `Power Query`, `Power Pivot`
-        ##### Analytic Skills 🤖
+        #### Analytic Skills 🤖
         - `EDA` & `Data Mining`
         - `Data Visualization`
         - `Data Modeling`
         - `Machine Learning`
         - `Feature Engineering`
         - `ETL` & `Data Management`
-        ##### Certificate 🪪
+        #### Certificate 🪪
         - *Google Business Intelligence Specialization*
     '''
 }
