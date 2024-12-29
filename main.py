@@ -14,6 +14,7 @@ with open(resume_file, "rb") as pdf_file:
 
 # --- Top Header ---
 st.set_page_config(layout = "centered")
+st.caption("A Web-based Resume Built with Streamlit")
 st.title(WORK_NAME)
 st.caption(TC_NAME)    
 st.warning(DESCRIPTION_a, icon = "⚡")
