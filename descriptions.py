@@ -26,7 +26,7 @@ EDU = {
         - Thesis URL 🔗 : [Link](https://hdl.handle.net/11296/834k8b)
         ###### Grade
         - GPA : **3.8**  |  *4.0*
-        ##### Honor
+        ###### Honor
         - *Phi Tau Phi Honorary Membership*
         - *The C. C. Chang Scholarship of Administrative Science*
         - *The Rotary Foundation Scholarship*
