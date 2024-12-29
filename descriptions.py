@@ -140,7 +140,7 @@ PROJECTS = {
         },
         'dws':{
             'name':'''
-                #### *Build a Local Data Warehouse of an Integrated Consumer Segmentation for Taiwan Business*
+                #### *Build a Local Data Warehouse of Integrated Consumer Segmentations for Taiwan Business*
             ''',
             'info':'''
                 - `Standardize consumer segmentation` by aligning different departments' goals and integrating them with existing academic frameworks. 
