@@ -3,25 +3,21 @@ PAGE_TITLE = "Web-based CV"
 # --- Basics ---
 WORK_NAME = "Lean Lin"
 TC_NAME = "Ming Yan, Lin"
-
 DESCRIPTION_a = """
 Senior Data Analyst with 5+ years experience
 """
-
 DESCRIPTION_b = """
 Skilled in leveraging ML models, EDA, creating impactful visualizations to uncover actionable trends, extracting insights into strategic business decisions.
 """
 
 # --- Contacts ---
 EMAIL = "xphoenixx32@email.com"
-
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/leanlin/",
     "GitHub": "https://github.com/xphoenixx32",
 }
 
 # --- Information of About ---
-
 EDU = {
     'degree': '**Master Degree**, *Public Administration & Policy*',
     'school': 'National Taipei University',
@@ -75,39 +71,37 @@ CAREER = {
 }
 
 # --- Information of Skills ---
-
 SKILLS = {
     'soft':'''
-        - Communication and Collaboration : 
-            - Clear Data Storytelling
-            - Cross-Functional Collaboration
-        - Critical Thinking and Problem-Solving : 
-            - Problem Decomposition
-            - Logical Reasoning
-            - Data-Driven Decision-Making
-        - Adaptability and Growth Mindset :
-            - Learning New Tools and Techniques
-            - Adapting to Change
+        - 🤝 Communication and Collaboration : 
+            - *Clear Data Storytelling*
+            - *Cross-Functional Collaboration*
+        - 🧠 Critical Thinking and Problem-Solving : 
+            - *Problem Decomposition*
+            - *Logical Reasoning*
+            - *Data-Driven Decision-Making*
+        - 🌵 Adaptability and Growth Mindset :
+            - *Learning New Tools and Techniques*
+            - *Adapting to Change*
     ''',
     'hard':'''
-        - Code & Data Tool : 
+        - 🐍 Code & Data Tool : 
             - `Python`, `SQL`, `Streamlit`
             - `Looker Studio`, `Tableau`, `Power BI`
             - `Excel`, `Power Query`, `Power Pivot`
-        - Analytic Skills :
+        - 🤖 Analytic Skills :
             - `EDA & Data Mining`
             - `Data Visualization`
             - `Data Modeling`
             - `Machine Learning`
             - `Feature Engineering`
             - `ETL & Data Management`
-        - Certificate :
+        - 🪪 Certificate :
             - *Google Business Intelligence Specialization*
     '''
 }
 
-# --- Information of Skills ---
-
+# --- Information of Projects ---
 PROJECTS = {
     'side':{
         'app':{
