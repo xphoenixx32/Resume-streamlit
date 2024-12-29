@@ -1,7 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from pathlib import Path
-from PIL import Image
 from descriptions import WORK_NAME, TC_NAME, DESCRIPTION_a, DESCRIPTION_b, EMAIL, SOCIAL_MEDIA, PROJECTS, EDU, CAREER, SKILLS
 from print_txt import txt
 
