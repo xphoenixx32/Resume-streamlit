@@ -1,31 +1,45 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from pathlib import Path
+from PIL import Image
 from descriptions import WORK_NAME, TC_NAME, DESCRIPTION_a, DESCRIPTION_b, EMAIL, SOCIAL_MEDIA, PROJECTS, EDU, CAREER, SKILLS
 from print_txt import txt
 
 # --- Path Settings ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 resume_file = current_dir / "assets" / "CV.pdf"
+profile_pic = current_dir / "assets" / "profile_pic.jpg"
 
 # --- Load Assets ---
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
+profile_pic = Image.open(profile_pic)
+
 # --- Top Header ---
 st.set_page_config(layout = "centered")
 
 with st.container():
-    st.title(WORK_NAME)
-    st.subheader(TC_NAME)
-    st.warning(DESCRIPTION_a)
-    st.info(DESCRIPTION_b)
-    st.download_button(
-        label = " ⬇︎ Download Resume",
-        data = PDFbyte,
-        file_name = resume_file.name,
-        mime = "application/octet-stream",
-    )
+    col_01, col_02, col_03 = st.columns(3, 
+                                gap = "large", 
+                                vertical_alignment = "center",
+                            )
+
+    with col_01:
+        st.title(WORK_NAME)
+        st.subheader(TC_NAME)
+    
+    with col_03:
+        st.image(profile_pic, width = 200)
+
+st.warning(DESCRIPTION_a)
+st.info(DESCRIPTION_b)
+st.download_button(
+    label = " ⬇︎ Download Resume",
+    data = PDFbyte,
+    file_name = resume_file.name,
+    mime = "application/octet-stream",
+)
 
 # --- Format Layout ---
 with st.container():
