@@ -19,11 +19,9 @@ st.title(WORK_NAME)
 st.caption(TC_NAME)    
 st.warning(DESCRIPTION_a, icon = "⚡")
 st.info(DESCRIPTION_b, icon = "💡")
-st.markdown('''
-##### *Download Resume*
-''')
+
 st.download_button(
-    label = "assets/cloud-computing.png",
+    label = "🔻 *Download Resume*",
     data = PDFbyte,
     file_name = resume_file.name,
     mime = "application/octet-stream",
