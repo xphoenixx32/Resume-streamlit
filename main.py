@@ -32,7 +32,7 @@ with st.container():
     selected = option_menu(
         menu_title = None,
         options = ['About', 'Skills', 'Projects', 'Contact'],
-        icons = ['file-person', 'tools', 'list-stars', 'telephone-plus-fill'],
+        icons = ['person-lines-fill', 'tools', 'list-stars', 'telephone-plus-fill'],
         orientation = 'horizontal'
     )
 
