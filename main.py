@@ -74,7 +74,12 @@ if selected == 'Projects':
     tab_p1, tab_p2 = st.tabs(['Side Projects',
                               'Work Projects'])
     with tab_p1:
+        st.markdown(PROJECTS['side']['ml']['name'])
+        st.markdown(PROJECTS['side']['ml']['info'])
+        st.info(PROJECTS['side']['ml']['access'])
 
+        st.divider()
+        
         st.markdown(PROJECTS['side']['app']['name'])
         st.markdown(PROJECTS['side']['app']['info'])
         st.info(PROJECTS['side']['app']['access'])
