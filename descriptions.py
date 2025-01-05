@@ -101,6 +101,19 @@ SKILLS = {
 # --- Information of Projects ---
 PROJECTS = {
     'side':{
+        'ml':{
+            'name':'''
+                #### *a Showcase Demo of ML Model & XAI (Web app)*
+            ''',
+            'info':'''
+                - This Showcase Demo app helps user to better understand how a `Machine Learning Model` works, also realizing how variables interprete & predict `y` via `SHAP` Value.
+                - I expected to `standerdize the process of understanding a ML Model` by building this app with meaningful metrics & visualization.
+            ''',
+            'access': '''
+                - 🔗 [Access link](https://ml-xai-showcase-toolkit.streamlit.app/)
+                - 👾 [GitHub Code Link](https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main)
+            '''
+        },
         'app':{
             'name':'''
                 #### *EDA Toolkit (Web app) - a Data Tool without any Coding*
