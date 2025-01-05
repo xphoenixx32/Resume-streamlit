@@ -136,7 +136,7 @@ PROJECTS = {
                 - Using `LSTM` to `Predict the future 'Weekly_Sales' by different shop clusters` to help optimize the stocking strategy.
             ''',
             'access': '''
-                - 🔗 [access link](https://walmart-casestudy-leanlinmy.my.canva.site/)
+                - 🔗 [Access link](https://walmart-casestudy-leanlinmy.my.canva.site/)
                 - 👾 [GitHub Code Link](https://github.com/xphoenixx32/case_study/blob/e5288101aeb8f9292dc6b2e9433e3e53842e7d89/factor_analysis_on_walmart_sales_performance.ipynb)
             '''
         }
@@ -175,7 +175,7 @@ PROJECTS = {
                     - Create Incremental Orders
             ''',
             'access': '''
-                🔗 [access link](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea)
+                🔗 [Access link](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea)
             '''
         }
     }
