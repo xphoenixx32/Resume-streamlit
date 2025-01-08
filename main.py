@@ -20,8 +20,8 @@ st.caption('''
 # st.image("assets/profile.png", width = 160)
 st.title(f'''***{WORK_NAME}***''')
 st.caption(f'''
-##### ***{TC_NAME}***
-###### ***{DESCRIPTION_a}***
+#### ***{TC_NAME}***
+###### {DESCRIPTION_a}
 ''')
 st.success(DESCRIPTION_b, icon = "💡")
 
