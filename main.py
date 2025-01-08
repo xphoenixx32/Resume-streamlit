@@ -19,9 +19,9 @@ st.caption('''
 ''')
 # st.image("assets/profile.png", width = 160)
 st.title(f'''***{WORK_NAME}***''')
-st.markdown(f'''#### ***{TC_NAME}***''')
-st.warning(DESCRIPTION_a, icon = "⚡")
-st.success(DESCRIPTION_b, icon = "💡")
+st.markdown(f'''##### ***{TC_NAME}***''')
+st.warning(DESCRIPTION_a, icon = "💡")
+st.success(DESCRIPTION_b, icon = "⚡")
 
 st.download_button(
     label = "  ⏬ **Download Resume** (*.pdf*)  ",
@@ -35,7 +35,7 @@ with st.container():
     selected = option_menu(
         menu_title = None,
         options = ['About', 'Skills', 'Projects', 'Contact'],
-        icons = ['person-lines-fill', 'tools', 'list-stars', 'telephone-plus-fill'],
+        icons = ['person-circle', 'tools', 'bar-chart-steps', 'telephone-plus-fill'],
         orientation = 'horizontal'
     )
 
@@ -108,13 +108,20 @@ if selected == 'Projects':
         st.markdown(PROJECTS['work']['ls']['info'])
 
 if selected == 'Contact':
+    st.image('assets/gmail.png', width = 50)
     st.info(f'''
     ###### *Email*
     > [{EMAIL}]({EMAIL})
-    ---
+    ''')
+    
+    st.image('assets/linkedin.png', width = 50)
+    st.info('''
     ###### *Linkedin*
     > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
-    ---
+    ''')
+
+    st.image('assets/github-sign.png', width = 50)
+    st.markdown('''
     ###### *GitHub*
     > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
     ''')
