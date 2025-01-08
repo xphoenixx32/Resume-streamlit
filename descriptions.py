@@ -72,14 +72,14 @@ CAREER = {
 # --- Information of Skills ---
 SKILLS = {
     'soft':'''
-        #### Communication and Collaboration 🤝
+        #### Communication 🤝
         - *Clear Data Storytelling*
         - *Cross-Functional Collaboration*
-        #### Critical Thinking and Problem-Solving 🧠
+        #### Critical Thinking 🧠
         - *Problem Decomposition*
         - *Logical Reasoning*
         - *Data-Driven Decision-Making*
-        #### Adaptability and Growth Mindset 🌵
+        #### Adaptability Mindset 🌵
         - *Learning New Tools and Techniques*
         - *Adapting to Change*
     ''',
@@ -91,8 +91,8 @@ SKILLS = {
         #### Analytic Skills 🤖
         - `EDA` & `Data Mining`
         - `Data Visualization`
-        - `Data Modeling`
         - `Machine Learning`
+        - `Statistical Modeling`
         - `Feature Engineering`
         - `ETL` & `Data Management`
         #### Certificate 🪪
@@ -105,28 +105,28 @@ PROJECTS = {
     'side':{
         'ml':{
             'name':'''
-                #### *a Showcase Demo of ML Model & XAI (Web app)*
+                #### *Showcase Demo of ML Model & XAI (Web app)*
             ''',
             'info':'''
                 - This Showcase Demo app helps user to better understand how a `Machine Learning Model` works, also realizing how variables interprete & predict `y` via `SHAP` Value.
                 - I expected to `standerdize the process of understanding a ML Model` by building this app with meaningful metrics & visualization.
             ''',
             'access': '''
-                - 🔗 [Access link](https://ml-xai-showcase-toolkit.streamlit.app/)
-                - 👾 [GitHub Code Link](https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main)
+                > 🔗 [Access this project](https://ml-xai-showcase-toolkit.streamlit.app/)
+                > 👾 [GitHub Repo](https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main)
             '''
         },
         'app':{
             'name':'''
-                #### *EDA Toolkit (Web app) - a Data Tool without any Coding*
+                #### *EDA Toolkit - a No-Code Data Tool (Web app)*
             ''',
             'info':'''
                 - The EDA Toolkit is a user-friendly web application built with Streamlit that assists data analysts and data scientists in `performing quick, interactive, and comprehensive EDA`.
                 - I aimed to `simplify the process of understanding datasets` by providing tools for statistical insights and visualization.
             ''',
             'access': '''
-                - 🔗 [Access link](https://data-eda-toolkit-by-leanlinmy.streamlit.app/)
-                - 👾 [GitHub Code Link](https://github.com/xphoenixx32/EDA-streamlit/tree/main)
+                > 🔗 [Access this project](https://data-eda-toolkit-by-leanlinmy.streamlit.app/)
+                > 👾 [GitHub Repo](https://github.com/xphoenixx32/EDA-streamlit/tree/main)
             '''
         },
         'wal':{
@@ -138,8 +138,8 @@ PROJECTS = {
                 - Using `LSTM` to `Predict the future 'Weekly_Sales' by different shop clusters` to help optimize the stocking strategy.
             ''',
             'access': '''
-                - 🔗 [Access link](https://walmart-casestudy-leanlinmy.my.canva.site/)
-                - 👾 [GitHub Code Link](https://github.com/xphoenixx32/case_study/blob/e5288101aeb8f9292dc6b2e9433e3e53842e7d89/factor_analysis_on_walmart_sales_performance.ipynb)
+                > 🔗 [Access this project](https://walmart-casestudy-leanlinmy.my.canva.site/)
+                > 👾 [GitHub Repo](https://github.com/xphoenixx32/case_study/blob/e5288101aeb8f9292dc6b2e9433e3e53842e7d89/factor_analysis_on_walmart_sales_performance.ipynb)
             '''
         }
     },
@@ -177,7 +177,7 @@ PROJECTS = {
                     - Create Incremental Orders
             ''',
             'access': '''
-                🔗 [Access link](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea)
+                🔗 [Access this project](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea)
             '''
         }
     }
