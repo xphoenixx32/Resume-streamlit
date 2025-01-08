@@ -21,7 +21,7 @@ st.warning(DESCRIPTION_a, icon = "⚡")
 st.info(DESCRIPTION_b, icon = "💡")
 
 st.download_button(
-    label = "🔻 *Download Resume*",
+    label = "  ⏬ *Download Resume*  ",
     data = PDFbyte,
     file_name = resume_file.name,
     mime = "application/octet-stream",
@@ -105,20 +105,13 @@ if selected == 'Projects':
         st.markdown(PROJECTS['work']['ls']['info'])
 
 if selected == 'Contact':
-    st.write('Gamil : ', EMAIL)
-    st.write('LinkedIn : ', SOCIAL_MEDIA['LinkedIn'])
-    st.write('GitHub : ', SOCIAL_MEDIA['GitHub'])
-    
-    gm_info = EMAIL
-    lk_info = SOCIAL_MEDIA['LinkedIn']
-    gh_info = SOCIAL_MEDIA['GitHub']
     st.info(f'''
-    ##### *Gamil*
-    > [{gm_info}]({gm_info})
+    ###### *Gamil*
+    > [{EMAIL}]({EMAIL})
     ---
-    ##### *Linkedin*
-    > [{lk_info}]({lk_info})
+    ###### *Linkedin*
+    > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
     ---
-    ##### *GitHub*
-    > [{gh_info}]({gh_info})
+    ###### *GitHub*
+    > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
     ''')
