@@ -21,7 +21,7 @@ st.warning(DESCRIPTION_a, icon = "⚡")
 st.info(DESCRIPTION_b, icon = "💡")
 
 st.download_button(
-    label = "  ⏬ **Download Resume(*.pdf*)**  ",
+    label = "  ⏬ **Download Resume** (*.pdf*)  ",
     data = PDFbyte,
     file_name = resume_file.name,
     mime = "application/octet-stream",
