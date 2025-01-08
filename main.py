@@ -19,8 +19,10 @@ st.caption('''
 ''')
 # st.image("assets/profile.png", width = 160)
 st.title(f'''***{WORK_NAME}***''')
-st.caption(f'''***{TC_NAME}***''')    
-st.caption(f'''***{DESCRIPTION_a}***''')
+st.caption(f'''
+##### ***{TC_NAME}***
+###### ***{DESCRIPTION_a}***
+''')
 st.success(DESCRIPTION_b, icon = "💡")
 
 st.download_button(
