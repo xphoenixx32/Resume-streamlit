@@ -109,7 +109,7 @@ if selected == 'Projects':
 
 if selected == 'Contact':
     st.info(f'''
-    ###### *Gamil*
+    ###### *Email*
     > [{EMAIL}]({EMAIL})
     ---
     ###### *Linkedin*
