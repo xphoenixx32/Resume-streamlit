@@ -111,7 +111,7 @@ if selected == 'Contact':
     
     gm_info = EMAIL
     lk_info = SOCIAL_MEDIA['LinkedIn']
-    gh_info = SOCIAL_MEDIA['Github']
+    gh_info = SOCIAL_MEDIA['GitHub']
     st.info(f'''
     ##### *Gamil*
     > [{gm_info}]({gm_info})
