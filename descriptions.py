@@ -5,7 +5,10 @@ DESCRIPTION_a = """
 Senior Data Analyst with 5+ years experience
 """
 DESCRIPTION_b = """
-Skilled in leveraging **ML models**, **EDA**, **creating impactful visualizations** to uncover actionable trends, extracting insights into strategic business decisions.
+###### Skilled in
+- Leverage **Machine Learning**, **EDA**, and **Data Mining**
+- Create impactful **Visualizations**
+- Uncover **actionable trends, extracting insights into strategic business decisions**.
 """
 
 # --- Contacts ---
