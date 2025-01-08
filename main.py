@@ -18,8 +18,8 @@ st.caption('''
 *A Web-based Resume Built with Streamlit*
 ''')
 st.image("assets/profile.png", width = 150)
-st.subheader(WORK_NAME)
-st.caption(TC_NAME)    
+st.title(f'''**{WORK_NAME}**''')
+st.caption(f'''*{TC_NAME}*''')    
 st.warning(DESCRIPTION_a, icon = "⚡")
 st.success(DESCRIPTION_b, icon = "💡")
 
