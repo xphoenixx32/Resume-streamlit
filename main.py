@@ -108,20 +108,17 @@ if selected == 'Projects':
         st.markdown(PROJECTS['work']['ls']['info'])
 
 if selected == 'Contact':
-    st.image('assets/gmail.png', width = 50)
+    st.image('assets/gmail.png', width = 60)
     st.info(f'''
-    ###### *Email*
-    > [{EMAIL}]({EMAIL})
+    > {EMAIL}
     ''')
     
-    st.image('assets/linkedin.png', width = 50)
-    st.info('''
-    ###### *Linkedin*
+    st.image('assets/linkedin.png', width = 60)
+    st.info(f'''
     > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
     ''')
 
-    st.image('assets/github-sign.png', width = 50)
-    st.markdown('''
-    ###### *GitHub*
+    st.image('assets/github.png', width = 60)
+    st.markdown(f'''
     > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
     ''')
