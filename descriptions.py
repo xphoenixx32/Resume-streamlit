@@ -2,7 +2,7 @@
 WORK_NAME = "Lean Lin"
 TC_NAME = "Ming Yan, Lin"
 DESCRIPTION_a = """
-Senior Data Analyst with 5+ years experience
+Sr. Data Analyst with *5+* years experience
 """
 DESCRIPTION_b = """
 - Leverage **Machine Learning**, **EDA**, and **Data Mining**
