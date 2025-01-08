@@ -17,7 +17,7 @@ st.set_page_config(layout = "centered")
 st.caption('''
 *A Web-based Resume Built with Streamlit*
 ''')
-st.image("assets/profile.png", width = 100)
+st.image("assets/profile.png", width = 150)
 st.subheader(WORK_NAME)
 st.caption(TC_NAME)    
 st.warning(DESCRIPTION_a, icon = "⚡")
