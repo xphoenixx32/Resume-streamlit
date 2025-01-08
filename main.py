@@ -27,17 +27,6 @@ st.download_button(
     mime = "application/octet-stream",
 )
 
-# --- Format tab ---
-# This is the main container for tabs
-.st-key-styled_tabs div[data-baseweb="tab-list"]{
-    background:transparent;
-}
-# Every tab is a button element
-.st-key-styled_tabs button{
-    width:33%;
-    border-radius:14px;
-}
-
 # --- Format Layout ---
 with st.container():
     selected = option_menu(
