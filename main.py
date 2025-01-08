@@ -112,15 +112,18 @@ if selected == 'Contact':
     with col1:
         st.image('assets/gmail.png', width = 60)
         st.error(f'''
+        ##### ***Gmail***
         > {EMAIL}
         ''')
     with col2:
         st.image('assets/linkedin.png', width = 60)
         st.info(f'''
+        ##### ***LinkedIn***
         > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
         ''')
     with col3:
         st.image('assets/github.png', width = 60)
-        st.succuss(f'''
+        st.success(f'''
+        ##### ***GitHub***
         > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
         ''')
