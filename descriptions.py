@@ -15,6 +15,7 @@ EMAIL = "xphoenixx32@email.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/leanlin/",
     "GitHub": "https://github.com/xphoenixx32",
+    "Line ID": "archer840510"
 }
 
 # --- Information of About ---
