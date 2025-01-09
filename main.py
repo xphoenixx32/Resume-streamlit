@@ -108,7 +108,7 @@ if selected == 'Projects':
         st.markdown(PROJECTS['work']['ls']['info'])
 
 if selected == 'Contact':
-    col1, col2, col3 = st.columns([1, 1, 1])
+    col1, col2, col3, col4 = st.columns([[1, 1][1, 1]])
     with col1:
         st.image('assets/gmail.png', width = 60)
         st.error(f'''
@@ -116,14 +116,36 @@ if selected == 'Contact':
         > {EMAIL}
         ''')
     with col2:
+        st.image('assets/line.png', width = 60)
+        st.success(f'''
+        ##### ***LINE id***
+        > {SOCIAL_MEDIA['Line ID']}
+        ''')
+    with col3:
         st.image('assets/linkedin.png', width = 60)
         st.info(f'''
         ##### ***LinkedIn***
         > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
         ''')
-    with col3:
+    with col4:
         st.image('assets/github.png', width = 60)
-        st.success(f'''
+        st.markdown(f'''
         ##### ***GitHub***
         > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
         ''')
+        st.markdown(f'''
+            <div style="
+                padding: 10px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                background-color: #f9f9f9;
+            ">
+                <h5 style="margin-bottom: 10px;">***GitHub***</h5>
+                <p>
+                    <a href="{SOCIAL_MEDIA['GitHub']}" target="_blank" style="color: #007BFF; text-decoration: none;">
+                        {SOCIAL_MEDIA['GitHub']}
+                    </a>
+                </p>
+            </div>
+        ''', unsafe_allow_html = True)
