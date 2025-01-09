@@ -134,19 +134,3 @@ if selected == 'Contact':
         ##### ***GitHub***
         > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
         ''')
-        st.markdown(f'''
-            <div style="
-                padding: 10px;
-                border: 1px solid #ddd;
-                border-radius: 5px;
-                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-                background-color: #f9f9f9;
-            ">
-                <h5 style="margin-bottom: 10px;">***GitHub***</h5>
-                <p>
-                    <a href="{SOCIAL_MEDIA['GitHub']}" target="_blank" style="color: #007BFF; text-decoration: none;">
-                        {SOCIAL_MEDIA['GitHub']}
-                    </a>
-                </p>
-            </div>
-        ''', unsafe_allow_html = True)
