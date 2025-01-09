@@ -126,7 +126,7 @@ PROJECTS = {
                 - I aimed to `simplify the process of understanding datasets` by providing tools for statistical insights and visualization.
             ''',
             'access': '''
-                > 🔗 [Access this project](https://data-eda-toolkit-by-leanlinmy.streamlit.app/)
+                > 🔗 [Access this project](https://data-eda-toolkit.streamlit.app/)
                 > 👾 [GitHub Repo](https://github.com/xphoenixx32/EDA-streamlit/tree/main)
             '''
         },
