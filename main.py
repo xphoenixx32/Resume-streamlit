@@ -108,7 +108,7 @@ if selected == 'Projects':
         st.markdown(PROJECTS['work']['ls']['info'])
 
 if selected == 'Contact':
-    col1, col2, col3, col4 = st.columns([[1, 1][1, 1]])
+    col1, col2 = st.columns(2)
     with col1:
         st.image('assets/gmail.png', width = 60)
         st.error(f'''
@@ -121,6 +121,7 @@ if selected == 'Contact':
         ##### ***LINE id***
         > {SOCIAL_MEDIA['Line ID']}
         ''')
+    col3, col4 = st.columns(2)
     with col3:
         st.image('assets/linkedin.png', width = 60)
         st.info(f'''
