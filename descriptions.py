@@ -132,7 +132,7 @@ PROJECTS = {
         },
         'wal':{
             'name':'''
-                #### *Business Case Study - Walmart Sales Factors Analysis & Forcasting*
+                #### *Business Case Study - Walmart Sales Factors Analysis & Forecasting*
             ''',
             'info':'''
                 - This case study aimed to realize `how factors affect 'Weekly_Sales' of Walmart` and `what's the intersection effect between factors` by Using `K-means Clustering`, `Random Forest Regressor` and `Partial Dependence Plot`.
