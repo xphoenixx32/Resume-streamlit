@@ -160,7 +160,7 @@ PROJECTS = {
             ''',
             'info':'''
                 - `Standardize consumer segmentation` by aligning different departments' goals and integrating them with existing academic frameworks. 
-                - Over `60+` User Features retrievedd from `8` different tables has been built into a local data warehouse (ETL) for `Enhancing Marketing Efficiency` and to `Improve Analysis Quality`.
+                - Over `60+` User Features retrievedd from `14` different tables has been built into a local data warehouse (ETL) for `Enhancing Marketing Efficiency` and to `Improve Analysis Quality`.
                 - `Reduce computation time by 40%` and potentially `save an average of 6 hours per week` in manual data retrieval efforts. 
             '''
         },
