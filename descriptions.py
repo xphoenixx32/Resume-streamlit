@@ -52,7 +52,7 @@ CAREER = {
         'corp_name': '*Taiwan AiLabs*',
         'period': '2023 Feb ~ 2023 Dec',
         'info': '''
-            - `Lead 3 Data Analysts` and distribute the workload, organizing the needs from clients & senior management, and `meeting the overall goals` of the business unit's expectations.
+            - `Lead 3 Data Analysts` and distribute the workload, `organizing the needs` from clients & senior management, also `planning the analytical framework and layout to meet the overall goals` of the business unit's expectations.
             - `Utilizing community detection algorithms` to group atypical accounts, also `detecting atypical behavior patterns` on social media based on feature engineering & other ML methods. (2+ models for `YouTube` & `TikTok`)
             - Experienced in data visualization, `demonstrating evidence of coordinated inauthentic behaviors`, and `concluding with insights about how collaborative groups manipulated` specific information. (40+ reports)
         '''
@@ -109,7 +109,7 @@ PROJECTS = {
                 #### *Showcase Demo of ML Model & XAI (Web app)*
             ''',
             'info':'''
-                - This Showcase Demo app helps user to better understand how a `Machine Learning Model` works, also realizing how variables interprete & predict `y` via `SHAP` Value.
+                - This Showcase Demo app helps user to better understand how a `Machine Learning Model` works, also realizing `how features interprete & predict` target variable via `Explainable AI method`(SHAP Value).
                 - I expected to `standerdize the process of understanding a ML Model` by building this app with meaningful metrics & visualization.
             ''',
             'access': '''
