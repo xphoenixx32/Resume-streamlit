@@ -30,6 +30,24 @@ st.download_button(
     mime = "application/octet-stream",
 )
 
+st.markdown(
+    f'''
+    <a href="data:application/pdf;base64,{PDFbyte}" download="{resume_file.name}" style="
+        display: inline-block;
+        text-decoration: none;
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+    "> Download Resume (*.pdf*)</a>
+    ''',
+    unsafe_allow_html=True
+)
+
 # --- Format Layout ---
 with st.container():
     selected = option_menu(
