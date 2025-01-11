@@ -127,7 +127,7 @@ if selected == 'Contact':
                 <h5 style="margin: 0;"><b>Gmail</b></h5>
                 <p style="margin: 5px 0 0 0;">
                     <a href="{EMAIL}" target="_blank" style="color: #0000EE; text-decoration: none;">
-                        {EMAIL}
+                        mail to:{EMAIL}
                     </a>
                 </p>
             </div>
