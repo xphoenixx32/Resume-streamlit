@@ -23,13 +23,13 @@ st.markdown(f'''##### ***{TC_NAME}***''')
 st.warning(DESCRIPTION_a, icon = "💡")
 st.success(DESCRIPTION_b, icon = "⚡")
 
-st.download_button(
-    label = "  ⏬ **Download Resume** (*.pdf*)  ",
-    data = PDFbyte,
-    file_name = resume_file.name,
-    mime = "application/octet-stream",
-    help = "Click to download the resume as a PDF file."
-)
+# st.download_button(
+#     label = "  ⏬ **Download Resume** (*.pdf*)  ",
+#     data = PDFbyte,
+#     file_name = resume_file.name,
+#     mime = "application/octet-stream",
+#     help = "Click to download the resume as a PDF file."
+# )
 
 st.markdown(
     f'''
