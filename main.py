@@ -157,6 +157,7 @@ if selected == 'Contact':
             ''',
             unsafe_allow_html=True
         )
+    st.divider()
     col3, col4 = st.columns(2)
     with col3:
         st.image('assets/linkedin.png', width = 60)
