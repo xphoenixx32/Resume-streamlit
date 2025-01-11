@@ -125,8 +125,8 @@ if selected == 'Contact':
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
                 <h5 style="margin: 0;"><b>LinkedIn</b></h5>
                 <p style="margin: 5px 0 0 0;">
-                    <a href="{SOCIAL_MEDIA['EMAIL']}" target="_blank" style="color: #0000EE; text-decoration: none;">
-                        {SOCIAL_MEDIA['EMAIL']}
+                    <a href="{EMAIL}" target="_blank" style="color: #0000EE; text-decoration: none;">
+                        {EMAIL}
                     </a>
                 </p>
             </div>
