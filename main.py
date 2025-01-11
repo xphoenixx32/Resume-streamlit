@@ -143,7 +143,7 @@ if selected == 'Contact':
         st.markdown(
             f'''
             <div style="
-                background-color: #66cdaa; 
+                background-color: #caff70; 
                 padding: 15px 20px; 
                 border-radius: 8px; 
                 color: #000000; 
@@ -169,7 +169,7 @@ if selected == 'Contact':
         st.markdown(
             f'''
             <div style="
-                background-color: #5cacee; 
+                background-color: #b0e2ff; 
                 padding: 15px 20px; 
                 border-radius: 8px; 
                 color: #000000; 
