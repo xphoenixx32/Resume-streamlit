@@ -122,7 +122,7 @@ if selected == 'Contact':
                 background-color: #eea2ad; 
                 padding: 20px 25px; 
                 border-radius: 8px; 
-                color: #000000; 
+                color: #d51e3e; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
                 <h5 style="margin: 0;"><b>Gmail</b></h5>
                 <p style="margin: 5px 0 0 0;">
@@ -144,13 +144,11 @@ if selected == 'Contact':
                 background-color: #b7ded2; 
                 padding: 20px 25px; 
                 border-radius: 8px; 
-                color: #000000; 
+                color: #209b38; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
                 <h5 style="margin: 0;"><b>LINE id</b></h5>
                 <p style="margin: 5px 0 0 0;">
-                    <a href="{SOCIAL_MEDIA['Line ID']}" target="_blank" style="color: #0000EE; text-decoration: none;">
-                        {SOCIAL_MEDIA['Line ID']}
-                    </a>
+                    {SOCIAL_MEDIA['Line ID']}
                 </p>
             </div>
             ''',
@@ -170,7 +168,7 @@ if selected == 'Contact':
                 background-color: #b3cde0; 
                 padding: 20px 25px; 
                 border-radius: 8px; 
-                color: #000000; 
+                color: #2972b6; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
                 <h5 style="margin: 0;"><b>LinkedIn</b></h5>
                 <p style="margin: 5px 0 0 0;">
