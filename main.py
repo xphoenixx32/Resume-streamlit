@@ -28,6 +28,7 @@ st.download_button(
     data = PDFbyte,
     file_name = resume_file.name,
     mime = "application/octet-stream",
+    help = "Click to download the resume as a PDF file."
 )
 
 st.markdown(
