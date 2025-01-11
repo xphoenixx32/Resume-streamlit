@@ -23,30 +23,12 @@ st.markdown(f'''##### ***{TC_NAME}***''')
 st.warning(DESCRIPTION_a, icon = "💡")
 st.success(DESCRIPTION_b, icon = "⚡")
 
-# st.download_button(
-#     label = "  ⏬ **Download Resume** (*.pdf*)  ",
-#     data = PDFbyte,
-#     file_name = resume_file.name,
-#     mime = "application/octet-stream",
-#     help = "Click to download the resume as a PDF file."
-# )
-
-st.markdown(
-    f'''
-    <a href="data:application/pdf;base64,{PDFbyte}" download="{resume_file.name}" style="
-        display: inline-block;
-        text-decoration: none;
-        background-color: #4CAF50;
-        color: white;
-        padding: 10px 20px;
-        border-radius: 5px;
-        box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
-        font-size: 16px;
-        font-weight: bold;
-        text-align: center;
-    "> Download Resume (*.pdf*)</a>
-    ''',
-    unsafe_allow_html=True
+st.download_button(
+    label = "  ⏬ **Download Resume** (*.pdf*)  ",
+    data = PDFbyte,
+    file_name = resume_file.name,
+    mime = "application/octet-stream",
+    help = "Click to download the resume as a PDF file."
 )
 
 # --- Format Layout ---
