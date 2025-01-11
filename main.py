@@ -120,7 +120,7 @@ if selected == 'Contact':
             f'''
             <div style="
                 background-color: #eea2ad; 
-                padding: 15px 20px; 
+                padding: 20px 25px; 
                 border-radius: 8px; 
                 color: #000000; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
@@ -143,8 +143,8 @@ if selected == 'Contact':
         st.markdown(
             f'''
             <div style="
-                background-color: #caff70; 
-                padding: 15px 20px; 
+                background-color: #b7ded2; 
+                padding: 20px 25px; 
                 border-radius: 8px; 
                 color: #000000; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
@@ -169,8 +169,8 @@ if selected == 'Contact':
         st.markdown(
             f'''
             <div style="
-                background-color: #b0e2ff; 
-                padding: 15px 20px; 
+                background-color: #b3cde0; 
+                padding: 20px 25px; 
                 border-radius: 8px; 
                 color: #000000; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
@@ -189,8 +189,8 @@ if selected == 'Contact':
         st.markdown(
             f'''
             <div style="
-                background-color: #bebebe; 
-                padding: 15px 20px; 
+                background-color: #dfdfde; 
+                padding: 20px 25px; 
                 border-radius: 8px; 
                 color: #000000; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
