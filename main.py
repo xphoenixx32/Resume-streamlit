@@ -130,14 +130,10 @@ if selected == 'Contact':
         ''')
     with col4:
         st.image('assets/github.png', width = 60)
-        # st.markdown(f'''
-        # ##### ***GitHub***
-        # > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
-        # ''')
         st.markdown(
             f'''
             <div style="
-                background-color: #f5f5f5; 
+                background-color: #bebebe; 
                 padding: 15px 20px; 
                 border-radius: 8px; 
                 color: #000000; 
