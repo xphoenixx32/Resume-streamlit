@@ -111,23 +111,77 @@ if selected == 'Contact':
     col1, col2 = st.columns(2)
     with col1:
         st.image('assets/gmail.png', width = 60)
-        st.error(f'''
-        ##### ***Gmail***
-        > {EMAIL}
-        ''')
+        # st.error(f'''
+        # ##### ***Gmail***
+        # > {EMAIL}
+        # ''')
+        st.markdown(
+            f'''
+            <div style="
+                background-color: #eea2ad; 
+                padding: 15px 20px; 
+                border-radius: 8px; 
+                color: #000000; 
+                box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
+                <h5 style="margin: 0;"><b>LinkedIn</b></h5>
+                <p style="margin: 5px 0 0 0;">
+                    <a href="{SOCIAL_MEDIA['EMAIL']}" target="_blank" style="color: #0000EE; text-decoration: none;">
+                        {SOCIAL_MEDIA['EMAIL']}
+                    </a>
+                </p>
+            </div>
+            ''',
+            unsafe_allow_html=True
+        )
     with col2:
         st.image('assets/line.png', width = 60)
-        st.success(f'''
-        ##### ***LINE id***
-        > {SOCIAL_MEDIA['Line ID']}
-        ''')
+        # st.success(f'''
+        # ##### ***LINE id***
+        # > {SOCIAL_MEDIA['Line ID']}
+        # ''')
+        st.markdown(
+            f'''
+            <div style="
+                background-color: #66cdaa; 
+                padding: 15px 20px; 
+                border-radius: 8px; 
+                color: #000000; 
+                box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
+                <h5 style="margin: 0;"><b>LinkedIn</b></h5>
+                <p style="margin: 5px 0 0 0;">
+                    <a href="{SOCIAL_MEDIA['LinkedIn']}" target="_blank" style="color: #0000EE; text-decoration: none;">
+                        {SOCIAL_MEDIA['LinkedIn']}
+                    </a>
+                </p>
+            </div>
+            ''',
+            unsafe_allow_html=True
+        )
     col3, col4 = st.columns(2)
     with col3:
         st.image('assets/linkedin.png', width = 60)
-        st.info(f'''
-        ##### ***LinkedIn***
-        > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
-        ''')
+        # st.info(f'''
+        # ##### ***LinkedIn***
+        # > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
+        # ''')
+        st.markdown(
+            f'''
+            <div style="
+                background-color: #5cacee; 
+                padding: 15px 20px; 
+                border-radius: 8px; 
+                color: #000000; 
+                box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
+                <h5 style="margin: 0;"><b>LinkedIn</b></h5>
+                <p style="margin: 5px 0 0 0;">
+                    <a href="{SOCIAL_MEDIA['LinkedIn']}" target="_blank" style="color: #0000EE; text-decoration: none;">
+                        {SOCIAL_MEDIA['LinkedIn']}
+                    </a>
+                </p>
+            </div>
+            ''',
+            unsafe_allow_html=True
+        )
     with col4:
         st.image('assets/github.png', width = 60)
         st.markdown(
