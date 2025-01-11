@@ -188,7 +188,7 @@ if selected == 'Contact':
                 background-color: #dfdfde; 
                 padding: 20px 25px; 
                 border-radius: 8px; 
-                color: #000000; 
+                color: #4d4d4d; 
                 box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
                 <h5 style="margin: 0;"><b>GitHub</b></h5>
                 <p style="margin: 5px 0 0 0;">
