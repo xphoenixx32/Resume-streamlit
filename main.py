@@ -136,7 +136,7 @@ if selected == 'Contact':
         # ''')
         st.markdown(
             f'''
-            <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+            <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; color: #000000;">
             ##### ***GitHub***
             > [{SOCIAL_MEDIA['GitHub']}]({SOCIAL_MEDIA['GitHub']})
             </div>
