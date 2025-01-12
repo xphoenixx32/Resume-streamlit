@@ -115,22 +115,11 @@ PROJECTS = {
                 - This Showcase Demo app helps user to better understand how a `Machine Learning Model` works, also realizing `how features interprete & predict` target variable via `Explainable AI method`(SHAP Value).
                 - I expected to `standerdize the process of understanding a ML Model` by building this app with meaningful metrics & visualization.
             ''',
-            'access': '''
-                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-                    <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
-                    <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
-                        <li style="margin-bottom: 5px;">
-                            <a href="https://ml-xai-showcase-toolkit.streamlit.app/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
-                                🌐 Access this Project
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
-                                👾 GitHub Repo
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+            'access':'''
+                https://ml-xai-showcase-toolkit.streamlit.app/
+            ''',
+            'repo':'''
+                https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main
             '''
         },
         'app':{
@@ -141,22 +130,11 @@ PROJECTS = {
                 - The EDA Toolkit is a user-friendly web application built with Streamlit that assists data analysts and data scientists in `performing quick, interactive, and comprehensive EDA`.
                 - I aimed to `simplify the process of understanding datasets` by providing tools for statistical insights and visualization.
             ''',
-            'access': '''
-                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-                    <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
-                    <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
-                        <li style="margin-bottom: 5px;">
-                            <a href="https://data-eda-toolkit.streamlit.app/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
-                                🌐 Access this Project
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/xphoenixx32/EDA-streamlit/tree/main" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
-                                👾 GitHub Repo
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+            'access':'''
+                https://data-eda-toolkit.streamlit.app/
+            ''',
+            'repo':'''
+                https://github.com/xphoenixx32/EDA-streamlit/tree/main
             '''
         },
         'wal':{
@@ -167,22 +145,11 @@ PROJECTS = {
                 - This case study aimed to realize `how factors affect 'Weekly_Sales' of Walmart` and `what's the intersection effect between factors` by Using `K-means Clustering`, `Random Forest Regressor` and `Partial Dependence Plot`.
                 - Using `LSTM` to `Predict the future 'Weekly_Sales' by different shop clusters` to help optimize the stocking strategy.
             ''',
-            'access': '''
-                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-                    <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
-                    <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
-                        <li style="margin-bottom: 5px;">
-                            <a href="https://walmart-casestudy-leanlinmy.my.canva.site/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
-                                🌐 Access this Project
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/xphoenixx32/case_study/blob/e5288101aeb8f9292dc6b2e9433e3e53842e7d89/factor_analysis_on_walmart_sales_performance.ipynb" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
-                                👾 GitHub Repo
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+            'access':'''
+                https://walmart-casestudy-leanlinmy.my.canva.site/
+            ''',
+            'repo':'''
+                https://github.com/xphoenixx32/case_study/blob/e5288101aeb8f9292dc6b2e9433e3e53842e7d89/factor_analysis_on_walmart_sales_performance.ipynb
             '''
         }
     },
