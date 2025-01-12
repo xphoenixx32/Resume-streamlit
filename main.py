@@ -81,8 +81,7 @@ if selected == 'Projects':
         st.markdown(PROJECTS['side']['ml']['info'])
         st.markdown(
             f'''
-            <div style="background-color: #9fc5e8; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-                <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
+            <div style="background-color: #5486b4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
                     <li style="margin-bottom: 5px;">
                         <a href="{PROJECTS['side']['ml']['access']}" target="_blank" style="color: #E06666; text-decoration: none; font-weight: bold;">
@@ -106,8 +105,7 @@ if selected == 'Projects':
         st.markdown(PROJECTS['side']['app']['info'])
         st.markdown(
             f'''
-            <div style="background-color: #9fc5e8; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-                <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
+            <div style="background-color: #5486b4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
                     <li style="margin-bottom: 5px;">
                         <a href="{PROJECTS['side']['app']['access']}" target="_blank" style="color: #E06666; text-decoration: none; font-weight: bold;">
@@ -131,8 +129,7 @@ if selected == 'Projects':
         st.markdown(PROJECTS['side']['wal']['info'])
         st.markdown(
             f'''
-            <div style="background-color: #9fc5e8; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-                <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
+            <div style="background-color: #5486b4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
                     <li style="margin-bottom: 5px;">
                         <a href="{PROJECTS['side']['wal']['access']}" target="_blank" style="color: #E06666; text-decoration: none; font-weight: bold;">
