@@ -80,6 +80,26 @@ if selected == 'Projects':
         st.markdown(PROJECTS['side']['ml']['name'])
         st.markdown(PROJECTS['side']['ml']['info'])
         st.info(PROJECTS['side']['ml']['access'])
+        st.markdown(
+            '''
+            <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+                <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
+                <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
+                    <li style="margin-bottom: 5px;">
+                        <a href="https://ml-xai-showcase-toolkit.streamlit.app/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
+                            🌐 Access this Project
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
+                            👾 GitHub Repo
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            ''',
+            unsafe_allow_html=True
+        )
 
         st.divider()
         
