@@ -81,15 +81,15 @@ if selected == 'Projects':
         st.markdown(PROJECTS['side']['ml']['info'])
         st.markdown(
             f'''
-            <div style="background-color: #5486b4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+            <div style="background-color: #d1d9e4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
                     <li style="margin-bottom: 5px;">
-                        <a href="{PROJECTS['side']['ml']['access']}" target="_blank" style="color: #E06666; text-decoration: none; font-weight: bold;">
+                        <a href="{PROJECTS['side']['ml']['access']}" target="_blank" style="color: #0b5394; text-decoration: none; font-weight: bold;">
                             🌐 Shared URL of this Project
                         </a>
                     </li>
                     <li>
-                        <a href="{PROJECTS['side']['ml']['repo']}" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
+                        <a href="{PROJECTS['side']['ml']['repo']}" target="_blank" style="color: #351c75; text-decoration: none; font-weight: bold;">
                             👾 GitHub Repo
                         </a>
                     </li>
@@ -105,15 +105,15 @@ if selected == 'Projects':
         st.markdown(PROJECTS['side']['app']['info'])
         st.markdown(
             f'''
-            <div style="background-color: #5486b4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+            <div style="background-color: #d1d9e4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
                     <li style="margin-bottom: 5px;">
-                        <a href="{PROJECTS['side']['app']['access']}" target="_blank" style="color: #E06666; text-decoration: none; font-weight: bold;">
+                        <a href="{PROJECTS['side']['app']['access']}" target="_blank" style="color: #0b5394; text-decoration: none; font-weight: bold;">
                             🌐 Shared URL of this Project
                         </a>
                     </li>
                     <li>
-                        <a href="{PROJECTS['side']['app']['repo']}" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
+                        <a href="{PROJECTS['side']['app']['repo']}" target="_blank" style="color: #351c75; text-decoration: none; font-weight: bold;">
                             👾 GitHub Repo
                         </a>
                     </li>
@@ -129,15 +129,15 @@ if selected == 'Projects':
         st.markdown(PROJECTS['side']['wal']['info'])
         st.markdown(
             f'''
-            <div style="background-color: #5486b4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+            <div style="background-color: #d1d9e4; padding: 15px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
                     <li style="margin-bottom: 5px;">
-                        <a href="{PROJECTS['side']['wal']['access']}" target="_blank" style="color: #E06666; text-decoration: none; font-weight: bold;">
+                        <a href="{PROJECTS['side']['wal']['access']}" target="_blank" style="color: #0b5394; text-decoration: none; font-weight: bold;">
                             🌐 Shared URL of this Project
                         </a>
                     </li>
                     <li>
-                        <a href="{PROJECTS['side']['wal']['repo']}" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
+                        <a href="{PROJECTS['side']['wal']['repo']}" target="_blank" style="color: #351c75; text-decoration: none; font-weight: bold;">
                             👾 GitHub Repo
                         </a>
                     </li>
