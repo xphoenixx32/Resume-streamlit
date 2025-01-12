@@ -79,7 +79,7 @@ if selected == 'Projects':
     with tab_p1:
         st.markdown(PROJECTS['side']['ml']['name'])
         st.markdown(PROJECTS['side']['ml']['info'])
-        st.info(
+        st.markdown(
             f'''
             <div padding: 10px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
@@ -103,7 +103,7 @@ if selected == 'Projects':
         
         st.markdown(PROJECTS['side']['app']['name'])
         st.markdown(PROJECTS['side']['app']['info'])
-        st.info(
+        st.markdown(
             f'''
             <div padding: 10px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
@@ -127,7 +127,7 @@ if selected == 'Projects':
 
         st.markdown(PROJECTS['side']['wal']['name'])
         st.markdown(PROJECTS['side']['wal']['info'])
-        st.info(
+        st.markdown(
             f'''
             <div padding: 10px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
