@@ -2,12 +2,12 @@
 WORK_NAME = "Lean Lin"
 TC_NAME = "Ming Yan, Lin"
 DESCRIPTION_a = """
-Sr. Data Analyst with *5+* years experience
+Data Professional with *6* years pratical experience
 """
 DESCRIPTION_b = """
-- Leverage **Machine Learning**, **EDA**, and **Data Mining**
-- Create impactful **Visualizations** to uncover **actionable trends**
-- Extracting **Data-driven insights** into **Strategic business decisions**.
+- Leverage **EDA**, **Data Mining**, and **Machine Learning**
+- Create impactful **Visualizations** to uncover **Actionable Trends**
+- Extracting **Data-driven Insights** into **Strategic business decisions**.
 """
 
 # --- Contacts ---
@@ -43,7 +43,7 @@ CAREER = {
     'shopee':{
         'title': '#### **Data Analyst, Business Intelligence**',
         'corp_name': '*Shopee*',
-        'period': '2024 Jan ~ Present',
+        'period': '*2024 Jan ~ Present*',
         'info': '''
             - Identify `potential opportunities` and `plan actionable business improvement strategies` from existing sales data.
             - `Develop and maintain Data Dashboards or Trackers` for marketing analysis needs.
@@ -53,7 +53,7 @@ CAREER = {
     'ailabs':{
         'title': '#### **Lead Data Analyst**',
         'corp_name': '*Taiwan AiLabs*',
-        'period': '2023 Feb ~ 2023 Dec',
+        'period': '*2023 Feb ~ 2023 Dec*',
         'info': '''
             - `Lead 3 Data Analysts` and distribute the workload, `organizing the needs` from clients & senior management, also `planning the analytical framework and layout to meet the overall goals` of the business unit's expectations.
             - `Utilizing community detection algorithms` to group atypical accounts, also `detecting atypical behavior patterns` on social media based on feature engineering & other ML methods. (2+ models for `YouTube` & `TikTok`)
@@ -63,7 +63,7 @@ CAREER = {
     'eland':{
         'title': '#### **Sr. Business Analyst**',
         'corp_name': '*eLand Information*',
-        'period': '2019 Mar ~ 2023 Feb',
+        'period': '*2019 Mar ~ 2023 Feb*',
         'info': '''
             - `Providing conclusions and insights` among various realms based on data-driven evidence. (realms including `politics & policies`, `public relations`, `business analytics` and `marketing campaign`)
             - Involved in data-related tasks such as `Data Cleaning`, `Data Integration`, `Data Transformation` & `Data Visualization`, routinely delivering analytic reports. (100+ reports)
@@ -93,11 +93,11 @@ SKILLS = {
         - `Looker Studio`, `Tableau`, `Power BI`
         - `Excel`, `Power Query`, `Power Pivot`
         #### Analytic Skills 🤖
-        - `EDA` & `Data Mining`
-        - `Data Visualization`
-        - `Machine Learning`
-        - `Statistical Modeling`
-        - `Feature Engineering`
+        - `Exploratory Data Analysis` and `Feature Engineering`
+        - `Data Visualization` (Seaborn, Plotly, PyGWalker)
+        - `Machine Learning` (Bagging, AdaBoost, LSTM)
+        - `Explainable AI Method` (LIME, SHAP)
+        - `Statistical Models` (OLS, LR, PCA, Cluster, ARIMA)
         - `ETL` & `Data Management`
         #### Certificate 🪪
         - *Google Business Intelligence Specialization*
@@ -116,8 +116,21 @@ PROJECTS = {
                 - I expected to `standerdize the process of understanding a ML Model` by building this app with meaningful metrics & visualization.
             ''',
             'access': '''
-                > 🔗 [Access this project](https://ml-xai-showcase-toolkit.streamlit.app/)
-                > 👾 [GitHub Repo](https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main)
+                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+                    <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
+                        <li style="margin-bottom: 5px;">
+                            <a href="https://ml-xai-showcase-toolkit.streamlit.app/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
+                                🌐 Access this Project
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/xphoenixx32/MLshowcase-streamlit/tree/main" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
+                                👾 GitHub Repo
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             '''
         },
         'app':{
@@ -129,8 +142,21 @@ PROJECTS = {
                 - I aimed to `simplify the process of understanding datasets` by providing tools for statistical insights and visualization.
             ''',
             'access': '''
-                > 🔗 [Access this project](https://data-eda-toolkit.streamlit.app/)
-                > 👾 [GitHub Repo](https://github.com/xphoenixx32/EDA-streamlit/tree/main)
+                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+                    <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
+                        <li style="margin-bottom: 5px;">
+                            <a href="https://data-eda-toolkit.streamlit.app/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
+                                🌐 Access this Project
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/xphoenixx32/EDA-streamlit/tree/main" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
+                                👾 GitHub Repo
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             '''
         },
         'wal':{
@@ -142,8 +168,21 @@ PROJECTS = {
                 - Using `LSTM` to `Predict the future 'Weekly_Sales' by different shop clusters` to help optimize the stocking strategy.
             ''',
             'access': '''
-                > 🔗 [Access this project](https://walmart-casestudy-leanlinmy.my.canva.site/)
-                > 👾 [GitHub Repo](https://github.com/xphoenixx32/case_study/blob/e5288101aeb8f9292dc6b2e9433e3e53842e7d89/factor_analysis_on_walmart_sales_performance.ipynb)
+                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+                    <h4 style="margin: 0; font-family: Arial, sans-serif;">🔗 Project Access:</h4>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
+                        <li style="margin-bottom: 5px;">
+                            <a href="https://walmart-casestudy-leanlinmy.my.canva.site/" target="_blank" style="color: #007BFF; text-decoration: none; font-weight: bold;">
+                                🌐 Access this Project
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/xphoenixx32/case_study/blob/e5288101aeb8f9292dc6b2e9433e3e53842e7d89/factor_analysis_on_walmart_sales_performance.ipynb" target="_blank" style="color: #28A745; text-decoration: none; font-weight: bold;">
+                                👾 GitHub Repo
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             '''
         }
     },
