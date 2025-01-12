@@ -177,13 +177,9 @@ if selected == 'Projects':
         st.markdown(PROJECTS['work']['ls']['info'])
 
 if selected == 'Contact':
-    col1, col2, col3= st.columns([1,0.5,1])
+    col1, col2, col3= st.columns([1,0.1,1])
     with col1:
         st.image('assets/gmail.png', width = 60)
-        # st.error(f'''
-        # ##### ***Gmail***
-        # > {EMAIL}
-        # ''')
         st.markdown(
             f'''
             <div style="
@@ -202,10 +198,6 @@ if selected == 'Contact':
         )
     with col3:
         st.image('assets/line.png', width = 60)
-        # st.success(f'''
-        # ##### ***LINE id***
-        # > {SOCIAL_MEDIA['Line ID']}
-        # ''')
         st.markdown(
             f'''
             <div style="
@@ -223,13 +215,9 @@ if selected == 'Contact':
             unsafe_allow_html=True
         )
     st.divider()
-    col3, col4, col5 = st.columns([1,0.5,1])
+    col3, col4, col5 = st.columns([1,0.1,1])
     with col3:
         st.image('assets/linkedin.png', width = 60)
-        # st.info(f'''
-        # ##### ***LinkedIn***
-        # > [{SOCIAL_MEDIA['LinkedIn']}]({SOCIAL_MEDIA['LinkedIn']})
-        # ''')
         st.markdown(
             f'''
             <div style="
