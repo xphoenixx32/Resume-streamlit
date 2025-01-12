@@ -79,10 +79,12 @@ SKILLS = {
         #### Communication 🤝
         - *Clear Data Storytelling*
         - *Cross-Functional Collaboration*
+        ---
         #### Critical Thinking 🧠
         - *Problem Decomposition*
         - *Logical Reasoning*
         - *Data-Driven Decision-Making*
+        ---
         #### Adaptability Mindset 🌵
         - *Learning New Tools and Techniques*
         - *Adapting to Change*
@@ -92,13 +94,19 @@ SKILLS = {
         - `Python`, `SQL`, `Streamlit`
         - `Looker Studio`, `Tableau`, `Power BI`
         - `Excel`, `Power Query`, `Power Pivot`
+        ---
         #### Analytic Skills 🤖
         - `Exploratory Data Analysis` and `Feature Engineering`
-        - `Data Visualization` (Seaborn, Plotly, PyGWalker)
-        - `Machine Learning` (Bagging, AdaBoost, LSTM)
-        - `Explainable AI Method` (LIME, SHAP)
-        - `Statistical Models` (OLS, LR, PCA, Cluster, ARIMA)
+        - `Data Visualization` 
+            > *Seaborn, Plotly, PyGWalker*
+        - `Machine Learning`
+            > *Bagging, AdaBoost, LSTM*
+        - `Explainable AI Method`
+            > *LIME, SHAP*
+        - `Statistical Models`
+            > *OLS, LR, PCA, Cluster, ARIMA*
         - `ETL` & `Data Management`
+        ---
         #### Certificate 🪪
         - *Google Business Intelligence Specialization*
     '''
