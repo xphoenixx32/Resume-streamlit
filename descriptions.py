@@ -168,7 +168,7 @@ PROJECTS = {
             ''',
             'info':'''
                 - Using `Random Forest Regressor` & `EDA` to assess the most influential key factors that drive live stream success.
-                - Compiling the insights into an executive summary for the Live Streaming Team to `help build up Guidelines`.
+                - Compiling the insights into an executive summary for the Live Streaming Team to `help build up Guidelines for recruiting and persuading new streamers`.
             '''
         },
         'dws':{
