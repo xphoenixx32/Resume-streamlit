@@ -195,7 +195,7 @@ PROJECTS = {
                     - Create Incremental Orders
             ''',
             'access': '''
-                > 🔗 [Access this project](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea)
+                > 🔗 [Access this project](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea?pvs=4)
             '''
         }
     }
