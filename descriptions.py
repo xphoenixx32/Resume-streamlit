@@ -208,7 +208,7 @@ PROJECTS = {
         },
         'app':{
             'name':'''
-                #### *Marketplace Business Topline Projection* ***(on-going)***
+                #### *Projection Automation Tool*
             ''',
             'info':'''
                 - Developed a Streamlit application that analyzes business metrics and creates projections based on historical data.
@@ -221,7 +221,7 @@ PROJECTS = {
         },
         'topline':{
             'name':'''
-                #### *Projection Automation Tool*
+                #### Marketplace Business Topline Prediction* ***(on-going)*** 
             ''',
             'info':'''
                 - Using Granger Causality Test to `Identify Important Lag Features` to help predict Topline Metrics, aiming to:
