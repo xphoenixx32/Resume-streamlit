@@ -208,7 +208,7 @@ PROJECTS = {
         },
         'app':{
             'name':'''
-                #### *Projection Automation Tool*
+                #### *Projection Automation Tool (Web app)*
             ''',
             'info':'''
                 - Developed a Streamlit application that analyzes business metrics and creates projections based on historical data.
