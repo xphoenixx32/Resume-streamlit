@@ -149,6 +149,25 @@ if selected == 'Projects':
 
     with tab_p2:
 
+        st.markdown(PROJECTS['work']['app']['name'])
+        st.markdown(PROJECTS['work']['app']['info'])
+        st.markdown(
+            f'''
+            <div style="background-color: #292929; padding: 10px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+                <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
+                    <li style="margin-bottom: 5px;">
+                        <a href="{PROJECTS['work']['app']['access']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
+                            🌐 Shared URL of this App
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            ''',
+            unsafe_allow_html = True
+        )
+
+        st.divider()
+
         st.markdown(PROJECTS['work']['rfm']['name'])
         st.markdown(PROJECTS['work']['rfm']['info'])
         st.markdown(
@@ -158,6 +177,25 @@ if selected == 'Projects':
                     <li style="margin-bottom: 5px;">
                         <a href="{PROJECTS['work']['rfm']['access']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
                             🌐 Shared URL of this Project
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            ''',
+            unsafe_allow_html = True
+        )
+
+        st.divider()
+
+        st.markdown(PROJECTS['work']['topline']['name'])
+        st.markdown(PROJECTS['work']['topline']['info'])
+        st.markdown(
+            f'''
+            <div style="background-color: #292929; padding: 10px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+                <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
+                    <li style="margin-bottom: 5px;">
+                        <a href="{PROJECTS['work']['topline']['access']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
+                            🌐 Shared URL of the Working Note
                         </a>
                     </li>
                 </ul>

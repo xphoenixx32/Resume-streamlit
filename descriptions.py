@@ -7,7 +7,8 @@ Data Professional with *6+* years practical experience
 DESCRIPTION_b = """
 - Leverage **EDA**, **Data Mining**, and **Machine Learning**
 - Create impactful **Visualizations** to uncover **Actionable Trends**
-- Extracting **Data-driven Insights** into **Strategic business decisions**.
+- Extracting **Data-driven Insights** into **Strategic Business Decisions**
+- A **Self-Motivated Learner**, with a special focus on data science and managerial soft skills
 """
 
 # --- Contacts ---
@@ -45,9 +46,12 @@ CAREER = {
         'corp_name': '*Shopee*',
         'period': '*2024 Jan ~ Present*',
         'info': '''
-            - Identify `potential opportunities` and `plan actionable business improvement strategies` from existing sales data.
-            - `Develop and maintain Data Dashboards or Trackers` for marketing analysis needs.
-            - Assist in organizing and focusing on analysis requests from the MKT Campaign team, including but not limited to `consumer traffic`, `marketing campaign performance`, and `analysis on ordering incentives`.
+            - Leverage RFM framework to `segment users` and `predict their future login inclination` using `LightGBM`.
+            - Building a `local crm data warehouse` conserved `95%` of computation time, which `integrate user features` from different departments, and `standardize the data structure` for future analysis.
+            - Building a `business metrics projection tool`(streamlit app) reduced `40%` of working time, further enhancing the efficiency and optimizing the working fashion.
+            - `Develop and maintain Data Dashboards or Trackers` for marketing analysis needs and routine monitoring, including but not limited to `marketing campaign performance`, `consumer traffic`, and `ordering incentives`.
+            - `Collaborate with cross-functional teams` to `Identify and Prioritize business needs`, and `Provide Data-Driven Insights` to support decision-making.
+            - `Communicate effectively` with stakeholders to ensure alignment on project goals and deliverables.
         '''
     },
     'ailabs':{
@@ -56,6 +60,7 @@ CAREER = {
         'period': '*2023 Feb ~ 2023 Dec*',
         'info': '''
             - `Lead 3 Data Analysts` and distribute the workload, `organizing the needs` from clients & senior management, also `planning the analytical framework and layout to meet the overall goals` of the business unit's expectations.
+            - Set up a `standardized data analysis framework` to `clearly uncover the relationship between abnormal user groups and popular manipulated issues`, which became a part of the focal features on `infodemic.cc`.
             - `Utilizing community detection algorithms` to group atypical accounts, also `detecting atypical behavior patterns` on social media based on feature engineering & other ML methods. (2+ models for `YouTube` & `TikTok`)
             - Experienced in data visualization, `demonstrating evidence of coordinated inauthentic behaviors`, and `concluding with insights about how collaborative groups manipulated` specific information. (40+ reports)
         '''
@@ -100,11 +105,14 @@ SKILLS = {
         - `Data Visualization` 
             > *Seaborn, Plotly, PyGWalker*
         - `Machine Learning`
-            > *Bagging, AdaBoost, LSTM*
+            > Tree-Based: *RandomForest, XgBoost, CatBoost, LightGBM*
+            > Deep Learning: *LSTM*
         - `Explainable AI Method`
             > *LIME, SHAP*
         - `Statistical Models`
-            > *OLS, LR, PCA, Cluster, ARIMA*
+            > Linear: *OLS, LR*
+            > Dimensionality Reduction: *PCA, t-SNE, Clustering*
+            > Time-Series: *ARIMAX, Prophet*
         - `ETL` & `Data Management`
         ---
         #### Certificate 🪪
@@ -196,6 +204,33 @@ PROJECTS = {
             ''',
             'access': '''
                 > 🔗 [Access this project](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea?pvs=4)
+            '''
+        },
+        'app':{
+            'name':'''
+                #### *Marketplace Business Topline Projection* ***(on-going)***
+            ''',
+            'info':'''
+                - Developed a Streamlit application that analyzes business metrics and creates projections based on historical data.
+                - Allowed for easy visualization of various metrics and their change differences.
+                - Optimized the process of `creating business metrics projections` by `automating the data analysis and visualization process`.
+            ''',
+            'access': '''
+                > 🔗 [Released App URL](https://projection-tool-app.streamlit.app/)
+            '''
+        },
+        'topline':{
+            'name':'''
+                #### *Projection Automation Tool*
+            ''',
+            'info':'''
+                - Using Granger Causality Test to `Identify Important Lag Features` to help predict Topline Metrics, aiming to:
+                    - Improving `Resources Allocaiton` before the Campaign
+                    - `Optimize the Campaign Strategy` by `Identifying the Key Factors`
+                - Leverage `ARIMAX` and `Prophet` Models in testing phase
+            ''',
+            'access': '''
+                > 🔗 [Organized Note of this project](https://www.notion.so/Testify-Causality-Correlation-for-Time-Series-Data-1e55d7926f8f80f6a442c6841471014b?pvs=4)
             '''
         }
     }
