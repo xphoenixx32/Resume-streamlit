@@ -203,7 +203,7 @@ PROJECTS = {
                     - Create Incremental Orders
             ''',
             'access': '''
-                > 🔗 [Access this project](https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea?pvs=4)
+                https://twilight-torta-0ee.notion.site/RFM-Clustering-for-CLV-Prediction-2ae71451866f431ebb3d156783c7ddea?pvs=4
             '''
         },
         'app':{
@@ -216,7 +216,7 @@ PROJECTS = {
                 - Optimized the process of `creating business metrics projections` by `automating the data analysis and visualization process`.
             ''',
             'access': '''
-                > 🔗 [Released App URL](https://projection-tool-app.streamlit.app/)
+                https://projection-tool-app.streamlit.app/
             '''
         },
         'topline':{
@@ -230,7 +230,7 @@ PROJECTS = {
                 - Leverage `ARIMAX` and `Prophet` Models in testing phase
             ''',
             'access': '''
-                > 🔗 [Organized Note of this project](https://www.notion.so/Testify-Causality-Correlation-for-Time-Series-Data-1e55d7926f8f80f6a442c6841471014b?pvs=4)
+                https://www.notion.so/Testify-Causality-Correlation-for-Time-Series-Data-1e55d7926f8f80f6a442c6841471014b?pvs=4
             '''
         }
     }
