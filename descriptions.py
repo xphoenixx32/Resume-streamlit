@@ -221,7 +221,7 @@ PROJECTS = {
         },
         'topline':{
             'name':'''
-                #### Marketplace Business Topline Prediction* ***(on-going)*** 
+                #### *Marketplace Business Topline Prediction* ***(on-going)*** 
             ''',
             'info':'''
                 - Using Granger Causality Test to `Identify Important Lag Features` to help predict Topline Metrics, aiming to:
