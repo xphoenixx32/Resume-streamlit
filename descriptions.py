@@ -46,7 +46,8 @@ CAREER = {
         'corp_name': '*Shopee*',
         'period': '*2024 Jan ~ Present*',
         'info': '''
-            - Leverage RFM framework to `segment users` and `predict their future login inclination` using `LightGBM`.
+            - Leverage RFM framework to `segment users` and `predict their future login inclination` using `LightGBM` with `93% precison rate`.
+            - Building a `Prophet` model to `predict upcoming campaign GMV` with `2.5% MAPE` and `4.3% MAPE gap`, further enhancing efficiency on marketing resources allocation
             - Building a `local crm data warehouse` conserved `95%` of computation time, which `integrate user features` from different departments, and `standardize the data structure` for future analysis.
             - Building a `business metrics projection tool`(streamlit app) reduced `40%` of working time, further enhancing the efficiency and optimizing the working fashion.
             - `Develop and maintain Data Dashboards or Trackers` for marketing analysis needs and routine monitoring, including but not limited to `marketing campaign performance`, `consumer traffic`, and `ordering incentives`.
