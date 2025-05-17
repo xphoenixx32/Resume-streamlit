@@ -6,7 +6,7 @@ from print_txt import txt
 
 # --- Path Settings ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
-resume_file = current_dir / "assets" / "CV_Leanlinmy.pdf"
+resume_file = current_dir / "assets" / "resume_leanlinmy.pdf"
 
 # --- Load Assets ---
 with open(resume_file, "rb") as pdf_file:
