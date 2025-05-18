@@ -230,7 +230,7 @@ PROJECTS = {
                     - `Optimize the Campaign Strategy` by `Identifying the Key Factors`
                 - Leverage `ARIMAX` and `Prophet` Models in testing phase
             ''',
-            'access_stationary': '''
+            'access_granger': '''
                 https://www.notion.so/Testify-Causality-Correlation-for-Time-Series-Data-1e55d7926f8f80f6a442c6841471014b?pvs=4
             '''
             'access_prophet': '''
