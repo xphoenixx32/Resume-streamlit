@@ -232,7 +232,7 @@ PROJECTS = {
             ''',
             'access_granger': '''
                 https://www.notion.so/Testify-Causality-Correlation-for-Time-Series-Data-1e55d7926f8f80f6a442c6841471014b?pvs=4
-            '''
+            ''',
             'access_prophet': '''
                 https://www.notion.so/Facebook-Prophet-Modeling-101-1f35d7926f8f805ca4bcc5ba06f2a91d?pvs=4
             '''
