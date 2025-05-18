@@ -194,13 +194,13 @@ if selected == 'Projects':
             <div style="background-color: #292929; padding: 10px; border-radius: 12px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
                 <ul style="list-style: none; padding-left: 0; margin-top: 10px;">
                     <li style="margin-bottom: 5px;">
-                        <a href="{PROJECTS['work']['topline']['access']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
-                            🌐 Shared URL of the Working Note
+                        <a href="{PROJECTS['work']['topline']['access_granger']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
+                            1️⃣ Shared URL of the Working Note : Granger Causality Test
                         </a>
                     </li>
                     <li style="margin-bottom: 5px;">
-                        <a href="{PROJECTS['work']['topline']['access']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
-                            🌐 Shared URL of the Working Note
+                        <a href="{PROJECTS['work']['topline']['access_prophet']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
+                            2️⃣ Shared URL of the Working Note : Prophet Modeling
                         </a>
                     </li>
                 </ul>
