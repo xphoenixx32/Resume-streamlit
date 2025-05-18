@@ -198,6 +198,11 @@ if selected == 'Projects':
                             🌐 Shared URL of the Working Note
                         </a>
                     </li>
+                    <li style="margin-bottom: 5px;">
+                        <a href="{PROJECTS['work']['topline']['access']}" target="_blank" style="color: #9FC5E8; text-decoration: none; font-weight: bold;">
+                            🌐 Shared URL of the Working Note
+                        </a>
+                    </li>
                 </ul>
             </div>
             ''',
