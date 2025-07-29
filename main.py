@@ -68,6 +68,7 @@ if selected == 'Skills':
                               'Soft Skill'])
     with tab_s1:
         st.markdown(SKILLS['hard'])
+        st.image("assets/certificate_ml.png")
         st.image("assets/certificate.png")
 
     with tab_s2:
