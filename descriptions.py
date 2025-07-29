@@ -116,9 +116,13 @@ SKILLS = {
             - Time-Series: *ARIMAX, Prophet*
         - `ETL` & `Data Management`
         ---
+    ''',
+    'certificate_1':'''
         #### Certificate 🪪
-        - *Stanford Machine Learning Specialization*
-        - *Google Business Intelligence Specialization*
+        - *Stanford  **Machine Learning**  Specialization*
+    ''',
+    'certificate_2':'''
+        - *Google  **Business Intelligence**  Specialization*
     '''
 }
 
