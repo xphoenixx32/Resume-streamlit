@@ -104,19 +104,20 @@ SKILLS = {
         #### Analytic Skills 🤖
         - `Exploratory Data Analysis` and `Feature Engineering`
         - `Data Visualization` 
-            > *Seaborn, Plotly, PyGWalker*
+            - *Seaborn, Plotly, PyGWalker*
         - `Machine Learning`
-            > Tree-Based: *RandomForest, XgBoost, CatBoost, LightGBM*
-            > Deep Learning: *LSTM*
+            - Tree-Based: *RandomForest, XgBoost, CatBoost, LightGBM*
+            - Deep Learning: *LSTM*
         - `Explainable AI Method`
-            > *LIME, SHAP*
+            - *LIME, SHAP*
         - `Statistical Models`
-            > Linear: *OLS, LR*
-            > Dimensionality Reduction: *PCA, t-SNE, Clustering*
-            > Time-Series: *ARIMAX, Prophet*
+            - Linear: *OLS, LR*
+            - Dimensionality Reduction: *PCA, t-SNE, Clustering*
+            - Time-Series: *ARIMAX, Prophet*
         - `ETL` & `Data Management`
         ---
         #### Certificate 🪪
+        - *Stanford Machine Learning Specialization*
         - *Google Business Intelligence Specialization*
     '''
 }
