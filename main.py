@@ -68,6 +68,9 @@ if selected == 'Skills':
                               'Soft Skill'])
     with tab_s1:
         st.markdown(SKILLS['hard'])
+        st.markdown('''
+        #### Certificate 🪪
+        ''')
         col1_cer, col2_cer = st.columns(2)
         
         with col1_cer:
