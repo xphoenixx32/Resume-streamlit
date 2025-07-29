@@ -101,7 +101,7 @@ SKILLS = {
         - `Looker Studio`, `Tableau`, `Power BI`
         - `Excel`, `Power Query`, `Power Pivot`
         ---
-        #### Analytic Skills 🤖
+        #### Analytical Skills 📖
         - `Exploratory Data Analysis` and `Feature Engineering`
         - `Data Visualization` 
             - *Seaborn, Plotly, PyGWalker*
