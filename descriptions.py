@@ -118,7 +118,6 @@ SKILLS = {
         ---
     ''',
     'certificate_1':'''
-        #### Certificate 🪪
         - *Stanford  **Machine Learning**  Specialization*
     ''',
     'certificate_2':'''
